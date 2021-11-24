@@ -3,9 +3,20 @@ En esta oportunidad les comparto un proyecto que realice por mi paso en el bootc
 para dar estilos a los componentes importando las librerias que ofrece Bootstrap5 para ejercitar el buen criterio estetico y empleando las posibilidades que ofrece ReactJS.
 
 ### ¿De que trata la app?  
- Consta de consultar el clima de cualquier cuidad del mundo trayendo los datos por medio de petisiones fetch a un back. La info se renderiza en tarjetas que funcionan como componentes que nos ofrece React como: 1) Montaje/componentDidMount. 2) Actualización/componentDidUpdate. 3) Desmontaje/componentWillUnmount.
+ Consta de consultar el clima de cualquier ciudad del mundo trayendo los datos por medio de petisiones fetch a un back. La info es renderizada en tarjetas (cards) que funcionan como componentes que son:  
+ >1) Montaje/componentDidMount. 
+ >2) Actualización/componentDidUpdate. 
+ >3) Desmontaje/componentWillUnmount.  
 
-La unica condición que los instructores me impusieron fue la siguiente:  
+
+
+Al usar _React_ se piensa en términos de __componentes__. Cuando se arma un página con _react_ vamos a tener que pensar nuestro sitio o página como una serie de __pequeños componentes__. En realidad, podemos decir que todo es un _componente_, de hecho vamos a tener _componentes_ que estén formados por otros _componentes_. Esto último va a suceder cuando tengamos un problema que sea grande, y la única forma ( o la mejor ) para resolver en _react_ es dividirlo en pequeños problemas. Esto además hace que los componentes sean altamente __reusables__.
+
+> Esta forma de desarrollar se conoce como __component driven development__.
+
+React también es muy bueno en términos de performance, cuenta con un feature llamado __Virtual DOM__, con lo cual logra renderizar muy rápido las páginas manteniendo el código entendible y fácil de manejar.
+
+### La unica condición que los instructores me impusieron fue la siguiente:  
 
 *Sé creativo!*
 

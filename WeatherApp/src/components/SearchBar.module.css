@@ -1,0 +1,31 @@
+.searchBar{
+    display: flex;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.input{
+    border: none;
+    background-color: transparent;
+    color: white;
+    font-size: 18px;
+    width: 13rem;
+}
+.input:focus{
+    outline: none;
+}
+.input::placeholder{
+    color: #ffffff60;
+}
+.button{
+    border: solid 2px rgb(130, 159, 221);
+    border-radius: 9999px;
+    width: 5rem;
+    background-color: transparent;
+    transition: background-color 0.25;
+    cursor: pointer;
+    color: #ffffff;
+}
+.button:hover{
+    background-color: #ffffff60;
+}
+

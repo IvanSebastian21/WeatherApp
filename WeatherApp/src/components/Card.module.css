@@ -1,0 +1,77 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 20vh;
+  width: 10rem;
+}
+.card + .card {
+  border: 1px solid rgba(0, 0, 0, 0.103);
+}
+.temp {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-top: -10px;
+}
+.temp + .temp {
+  margin-left: 1rem;
+}
+.temps {
+  display: flex;
+}
+.name {
+  margin-top: 8px;
+  background-color: rgb(186, 243, 243, 0.4);
+  border-radius: 0.5rem;
+  width: 130px;
+  align-items: center;
+  border: 1px solid rgb(130, 159, 221);
+  display: flex;
+  justify-content: center;
+}
+.primary {
+  /*flex-direction: row;
+    margin-bottom: 200px;
+    width: 30rem;*/
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 5vh 15vh;
+  width: 20rem;
+  margin-left: 70px;
+}
+.primary > .name {
+  font-size: 24px;
+  line-height: 40px;
+  background-color: rgb(186, 243, 243, 0.1);
+  margin-left: 70px;
+  width: 13rem;
+}
+.primary > .temps {
+  font-size: 20px;
+  line-height: 30px;
+}
+.primary > img {
+  margin-top: 140px;
+  margin-left: -70px;
+  width: 10rem;
+  height: 10rem;
+}
+.button {
+  border: 1px solid transparent;
+  border-radius: 9999px;
+  display: flex;
+  justify-content: center;
+  width: 1.5rem;
+  padding: 0;
+  height: 1.5rem;
+  align-items: center;
+  background-color: transparent;
+  transition: background-color 0.25;
+  cursor: pointer;
+  color: #f34e57;
+  margin-left: 0.5rem;
+}
+.button:hover {
+  background-color: #ffffff60;
+}

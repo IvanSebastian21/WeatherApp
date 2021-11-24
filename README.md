@@ -2,6 +2,9 @@
 En esta oportunidad les comparto un proyecto que realice por mi paso en el bootcamp de Henry, él mismo fue propuesto por la academia Henry. Se emplea conceptos como CSS Modules
 para dar estilos a los componentes importando las librerias que ofrece Bootstrap5 para ejercitar el buen criterio estetico y empleando las posibilidades que ofrece ReactJS.
 
+### ¿De que trata la app?  
+ Consta de consultar el clima de cualquier cuidad del mundo trayendo los datos por medio de petisiones fetch a un back. La info se renderiza en tarjetas que funcionan como componentes que nos ofrece React como: 1) Montaje/componentDidMount. 2) Actualización/componentDidUpdate. 3) Desmontaje/componentWillUnmount.
+
 La unica condición que los instructores me impusieron fue la siguiente:  
 
 *Sé creativo!*

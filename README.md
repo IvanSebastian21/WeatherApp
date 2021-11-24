@@ -1,3 +1,4 @@
+
 # Api-Weather
 En esta oportunidad les comparto un proyecto que realice por mi paso en el bootcamp de Henry, él mismo fue propuesto por la academia Henry. Se emplea conceptos como CSS Modules
 para dar estilos a los componentes importando las librerias que ofrece Bootstrap5 para ejercitar el buen criterio estetico y empleando las posibilidades que ofrece ReactJS.
@@ -40,3 +41,14 @@ React también es muy bueno en términos de performance, cuenta con un feature l
     css3 <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png"/> |
     bootstrap5 <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"/> |
     sass <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"/> | 
+ 
+<h3> Contacto: <h3> <img align='right' src="https://user-images.githubusercontent.com/85074756/140621760-a092acaa-bb99-41b2-bc4f-b2d30283fbf2.jpeg" width="180" height="195">
+    <a href='https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/' target= "_blank">
+     <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635266956/readme/linkedin-logo-png-1825_cjdift.png">
+    </a><br>
+ <h3> Puedes escribirme a: ivanseba.nez20@gmail.com <h3>
+    <a href='https://www.google.com/intl/es-419/gmail/about/' target= "_blank">
+     <img style='width: 2rem; height: 2rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png">
+    </a><br><br><br><br>
+Gracias por haber llegado hasta acá. Que andes bien.
+Saludos!

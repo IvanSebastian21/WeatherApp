@@ -7,5 +7,5 @@ La unica condición que los instructores me impusieron fue la siguiente:
 *Sé creativo!*
 <dl>
   <br>
-    <img style='width: 100%; height: 22rem' src='https://github.com/IvanSebastian21/WeatherApp/issues/1'/>
+    <img style='width: 100%; height: 35rem' src='https://user-images.githubusercontent.com/85074756/143240340-383677c8-3338-4c4f-8a6a-a188f9f7521d.png'/>
   </dl>

@@ -5,3 +5,7 @@ En esta oportunidad les comparto un proyecto que realice por mi paso en el bootc
 La unica condición que los instructores me impusieron fue la siguiente:  
 
 *Sé creativo!*
+<dl>
+  <br>
+    <img style='width: 100%; height: 22rem' src='https://github.com/IvanSebastian21/WeatherApp/issues/1'/>
+  </dl>

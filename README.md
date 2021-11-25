@@ -30,7 +30,7 @@ React también es muy bueno en términos de performance, cuenta con un feature l
 
 <dl>
   <br>
-    <img style='width: 100%; height: 33rem' src='https://user-images.githubusercontent.com/85074756/143240340-383677c8-3338-4c4f-8a6a-a188f9f7521d.png'/>
+    <img style='width: 110%; height: 33rem' src='https://user-images.githubusercontent.com/85074756/143240340-383677c8-3338-4c4f-8a6a-a188f9f7521d.png'/>
 </dl>
 
 <h3 align="left">Languajes e intrumentos:</h3>

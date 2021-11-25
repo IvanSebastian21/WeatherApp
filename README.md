@@ -4,7 +4,7 @@ En esta oportunidad les comparto un proyecto que realice por mi paso en el bootc
 para dar estilos a los componentes importando las librerias que ofrece Bootstrap5 para ejercitar el buen criterio estetico y empleando las posibilidades que ofrece ReactJS.
 
 ### ¿De que trata la app?  
- Consta de consultar el clima de cualquier ciudad del mundo trayendo los datos por medio de petisiones fetch a un back. La info es renderizada en tarjetas (cards) que funcionan como componentes que son:  
+ Consta de consultar el clima de cualquier ciudad del mundo en tiempo real trayendo los datos por medio de petisiones fetch a un App. La info es renderizada en tarjetas (cards) que funcionan como componentes que son:  
  >1) Montaje/componentDidMount. 
  >2) Actualización/componentDidUpdate. 
  >3) Desmontaje/componentWillUnmount.  
@@ -30,7 +30,7 @@ React también es muy bueno en términos de performance, cuenta con un feature l
 
 <dl>
   <br>
-    <img style='width: 110%; height: 33rem' src='https://user-images.githubusercontent.com/85074756/143240340-383677c8-3338-4c4f-8a6a-a188f9f7521d.png'/>
+    <img style='width: 110%; height: 35rem' src='https://user-images.githubusercontent.com/85074756/143240340-383677c8-3338-4c4f-8a6a-a188f9f7521d.png'/>
 </dl>
 
 <h3 align="left">Languajes e intrumentos:</h3>
